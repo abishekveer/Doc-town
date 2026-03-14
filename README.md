@@ -1,2 +1,7 @@
-# precisision-agriculture
-The proposed system presents an integrated AI-based precision farming solution designed to support farmers in making accurate and timely agricultural decisions. The system combines multiple intelligent modules including crop recommendation, yield prediction, leaf disease detection, and fertilizer guidance into a unified framework.
+DocTown prioritizes timesaving abilities
+and user safety. The platform incorporates cuttingedge technologies to minimize
+waiting times and maximize efficiency for both patients and healthcare providers.
+Through intelligent scheduling algorithms, DocTown optimizes appointment slots,
+reducing the time patients spend in queues or waiting rooms. This not only saves
+valuable time for users but also enhances overall workflow efficiency within medical
+facilities.
